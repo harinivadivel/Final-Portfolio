@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment files (never commit secrets)
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Junk artifact on Windows (leftover from accidental redirect to "null")
+null
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Vite cache
+.vite/
+*.local
+
+# Misc
+*.launch
+*.code-workspace
