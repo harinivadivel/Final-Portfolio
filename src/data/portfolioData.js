@@ -23,7 +23,7 @@ export const portfolioData = {
       github: "https://github.com/harinivadivel",
       portfolio: "https://portfolio1-zeta-gray.vercel.app/",
       facebook: "https://www.facebook.com/profile.php?id=100094474587066",
-      instagram: "https://www.instagram.com/harinivadivel1492/"
+      instagram: "https://www.instagram.com/harinivadivel492/"
     }
   },
 
